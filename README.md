@@ -57,23 +57,3 @@ Realiza llamadas al servidor para interactuar con la base de datos y obtener la 
 
 Utiliza json-server para emular una API y así verificar el funcionamiento de la aplicación en un entorno controlado.
 
-### Enlaces
-
-- Solución URL: [Github](https://github.com/StalinAM/aluraflix.git)
-- Sitio en línea URL: [SVAM Potafolio](https://svam-aluraflix.netlify.app/)
-
-### Construido con:
-
-- Semantic HTML5 markup
-- Json-Server
-- [React](https://react.dev/)
-- [React Router](https://reactrouter.com/en/main)
-- [Tailwind](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev/)
-- [Netlify](https://www.netlify.com/)
-
-## Author
-
-- GitHub - [StalinAM](https://github.com/StalinAM)
-- ONE – Oracle Next Education - [Oracle](https://www.oracle.com/lad/education/oracle-next-education/)
-- Alura LATAM - [Alura](https://www.aluracursos.com/)
